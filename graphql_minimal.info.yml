@@ -1,0 +1,8 @@
+name: GraphQL Minimal
+type: module
+description: 'Reducing the GraphQL Example module to a minimal implementation of a GraphQL 4 schema.'
+package: GraphQL
+core_version_requirement: ^9.3 || ^10
+dependencies:
+  - graphql:graphql
+  - node:node
